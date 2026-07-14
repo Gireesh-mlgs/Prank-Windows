@@ -1,8 +1,3 @@
-![Uploading giphy.gif…]()
-
-
-
-
 
 # 💀 Windows Prank Script
 
