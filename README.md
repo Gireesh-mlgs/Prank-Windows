@@ -48,7 +48,6 @@ message = "Your pc cooked."
 delay_seconds = 10
 number_of_pranks = 100
 chaos_duration = 3
-image_url = "YOUR_IMAGE_URL"
 ```
 
 | Variable | Description |
