@@ -1,3 +1,9 @@
+![Uploading giphy.gif…]()
+
+
+
+
+
 # 💀 Windows Prank Script
 
 A simple Python prank script that creates a chaotic Windows experience by opening multiple Command Prompt windows, launching an image repeatedly, and finally scheduling a system shutdown.
