@@ -77,7 +77,7 @@ shutdown /a
 windows-prank/
 │
 ├── prank.py
-├── README.md
+L─ README.md
 
 ```
 
